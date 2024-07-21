@@ -5,3 +5,6 @@ Merigold
 Bogenvelia
 Jashmin
 Lavender
+Tulip
+Hibiscus
+Orchid
