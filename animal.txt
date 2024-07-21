@@ -2,3 +2,6 @@ Dog
 cat
 Monkey
 Tiger
+Lion
+Gorilla
+Horse
